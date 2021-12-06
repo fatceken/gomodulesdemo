@@ -1,4 +1,4 @@
-package gomodulesdemo
+package parallel
 
 import "sync"
 
